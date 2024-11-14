@@ -44,7 +44,7 @@ conda create -n decoding_benchmark python=3.10
 python -m pip install jupyter
 python -m pip install stim
 
-python -m pip install pymatching --upgrade
+python -m pip install pymatching
 python -m pip install beliefmatching
 python -m pip install stimbposd
 ```
